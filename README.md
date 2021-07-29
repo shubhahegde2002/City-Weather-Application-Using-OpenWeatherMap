@@ -13,3 +13,6 @@ the next 6 hours (excluding time 0300 to 0500) of the city
 (Bangalore by default) whichever is entered in the entry box.
 
 ## Display
+![Screenshot 2021-07-29 093418](https://user-images.githubusercontent.com/73905298/127429856-909b2e5a-147e-4eec-81de-81cc9cc7cafd.jpg)
+
+![Screenshot 2021-07-29 093453](https://user-images.githubusercontent.com/73905298/127429881-fc026dbd-d517-4baf-9f52-fb4899e06521.jpg)
