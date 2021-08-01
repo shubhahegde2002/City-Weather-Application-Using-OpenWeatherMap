@@ -10,7 +10,7 @@ The app displays the current time, day and date, and a
 Calendar that can be browsed through. It also displays current
 weather and hourly forecast with temperatures and icons for
 the next 3 hours (excluding time 0300 to 0500) of the city
-entered in the entry widget.
+entered in the entry widget box.
 
 ## API
 OpenWeather Api has been utilized to access current weather data for any location on Earth including over 200,000 cities, as well as 5 day forecast for any location or city. It includes weather forecast data with 3-hour step. 
