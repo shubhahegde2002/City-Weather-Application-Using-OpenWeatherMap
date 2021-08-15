@@ -1,4 +1,4 @@
-# City-Weather-Event-Reminder-App
+# City Weather + Event Reminder App
 A Python GUI + API based application which displays current city weather ( Temperature, weather description) along with the weather of consecutive hours of the day ( gap of 3 hours.) Additional features include current time, event reminder to plan out your week and schedule events accordingly, and a Calendar designed using tkCalendar 
 
 ## Description 
